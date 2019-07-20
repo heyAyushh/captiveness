@@ -1,0 +1,102 @@
+16BCON002 is Success, data exceeded 
+16BCON003 is Success, data exceeded 
+16BCON018 is Success, data exceeded 
+16BCON028 is Success, data exceeded 
+16BCON030 is Success 
+16BCON032 is Success, data exceeded 
+16BCON049 is Success, data exceeded 
+16BCON055 is Success 
+16BCON056 is Success 
+16BCON060 is Success 
+16BCON072 is Success 
+16BCON074 is Success 
+16BCON076 is Success 
+16BCON081 is Success, data exceeded 
+16BCON088 is Success, data exceeded 
+16BCON094 is Success 
+16BCON096 is Success 
+16BCON097 is Success 
+16BCON098 is Success 
+16BCON101 is Success 
+16BCON103 is Success, data exceeded 
+16BCON104 is Success, data exceeded 
+16BCON108 is Success, data exceeded 
+16BCON109 is Success, data exceeded 
+16BCON116 is Success 
+16BCON125 is Success, data exceeded 
+16BCON133 is Success, data exceeded 
+16BCON136 is Success, data exceeded 
+16BCON143 is Success 
+16BCON150 is Success, data exceeded 
+16BCON170 is Success, data exceeded 
+16BCON173 is Success 
+16BCON174 is Success, data exceeded 
+16BCON175 is Success 
+16BCON179 is Success 
+16BCON189 is Success 
+16BCON194 is Success 
+16BCON207 is Success, data exceeded 
+16BCON209 is Success, data exceeded 
+16BCON210 is Success, data exceeded 
+16BCON213 is Success, data exceeded 
+16BCON214 is Success, data exceeded 
+16BCON216 is Success, data exceeded 
+16BCON219 is Success, data exceeded 
+16BCON230 is Success 
+16BCON235 is Success, data exceeded 
+16BCON237 is Success 
+16BCON252 is Success, data exceeded 
+16BCON258 is Success, data exceeded 
+16BCON270 is Success, data exceeded 
+16BCON273 is Success, data exceeded 
+16BCON274 is Success, data exceeded 
+16BCON275 is Success, data exceeded 
+16BCON287 is Success, data exceeded 
+16BCON294 is Success, data exceeded 
+16BCON296 is Success 
+16BCON342 is Success 
+16BCON349 is Success 
+16BCON350 is Success 
+16BCON356 is Success 
+16BCON365 is Success 
+16BCON368 is Success 
+16BCON371 is Success 
+16BCON383 is Success 
+16BCON384 is Success 
+16BCON386 is Success 
+16BCON392 is Success, data exceeded 
+16BCON406 is Success, data exceeded 
+16BCON410 is Success, data exceeded 
+16BCON416 is Success, data exceeded 
+16BCON431 is Success 
+16BCON435 is Success 
+16BCON441 is Success 
+16BCON452 is Success 
+16BCON490 is Success 
+16BCON509 is Success, data exceeded 
+16BCON510 is Success 
+16BCON514 is Success 
+16BCON518 is Success 
+16BCON525 is Success 
+16BCON526 is Success 
+16BCON529 is Success 
+16BCON535 is Success 
+16BCON540 is Success, data exceeded 
+16BCON544 is Success, data exceeded 
+16BCON547 is Success 
+16BCON548 is Success 
+16BCON549 is Success 
+16BCON552 is Success 
+16BCON583 is Success 
+16BCON590 is Success 
+16BCON598 is Success 
+16BCON601 is Success 
+16BCON605 is Success 
+16BCON610 is Success 
+16BCON611 is Success 
+16BCON614 is Success 
+16BCON647 is Success 
+16BCON656 is Success 
+16BCON665 is Success 
+16BCON667 is Success 
+16BCON682 is Success 
